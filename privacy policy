@@ -1,0 +1,67 @@
+# Privacy Policy for Greyscale
+
+**Last updated: February 2, 2026**
+
+## Introduction
+
+This Privacy Policy describes how Greyscale ("we", "our", or "the app") handles your information. We are committed to protecting your privacy.
+
+## Information We Collect
+
+Greyscale stores most data locally on your device. For the global leaderboard feature, some anonymized data is synced to the cloud.
+
+### Data Stored Locally
+- **Usage Statistics**: Time spent in greyscale mode, session history, streaks, achievements
+- **Preferences**: App settings and configuration
+- **Notifications**: Daily reminder notifications are scheduled locally on your device (no data is sent externally)
+
+### Data Synced to Cloud (for Leaderboard)
+- **Anonymous User ID**: A randomly generated identifier (not linked to your identity)
+- **Display Name**: The username you choose to show on the leaderboard
+- **Leaderboard Stats**: Greyscale time (weekly/monthly/yearly), streak, level, and unlocked achievements
+
+## How We Use Your Information
+
+All data is used solely to provide app functionality:
+- Track your greyscale usage and progress
+- Display achievements and milestones
+- Show your statistics on the global leaderboard (anonymously)
+
+## Data Sharing
+
+We do NOT share, sell, or transmit your personal data to any third parties. Leaderboard data (display name and stats) is visible to other app users but is not linked to your real identity.
+
+## Third-Party Services
+
+Greyscale uses:
+- **Firebase** (Google): Cloud database for leaderboard feature and anonymous authentication
+- **DiceBear** (dicebear.com): Generates avatar images based on your display name
+- **Expo**: Development framework and local notifications (no personal data sent)
+- **AsyncStorage**: Local device storage for app preferences
+
+We do not use analytics, advertising, or tracking services.
+
+## Children's Privacy
+
+Greyscale does not knowingly collect information from children under 13. The app is safe for all ages.
+
+## Your Rights
+
+You can delete all app data at any time by:
+- Uninstalling the app from your device
+- Using your device's app settings to clear app data
+
+Note: Uninstalling the app will remove your leaderboard presence. Your anonymous data on Firebase will be automatically cleaned up.
+
+## Changes to This Policy
+
+We may update this Privacy Policy. Changes will be posted within the app with an updated "Last updated" date.
+
+## Contact Us
+
+If you have questions about this Privacy Policy or need support, please contact us at:
+- **Email**: greyscale.app.help@gmail.com
+
+---
+
+*This privacy policy is effective as of February 2, 2026.*
