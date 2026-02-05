@@ -1,15 +1,15 @@
 
-# Privacy Policy for Greyscale
+# Privacy Policy for Grayscale
 
 **Last updated: February 2, 2026**
 
 ## Introduction
 
-This Privacy Policy describes how Greyscale ("we", "our", or "the app") handles your information. We are committed to protecting your privacy.
+This Privacy Policy describes how Grayscale ("we", "our", or "the app") handles your information. We are committed to protecting your privacy.
 
 ## Information We Collect
 
-Greyscale stores most data locally on your device. For the global leaderboard feature, some anonymized data is synced to the cloud.
+Grayscale stores most data locally on your device. For the global leaderboard feature, some anonymized data is synced to the cloud.
 
 ### Data Stored Locally
 - **Usage Statistics**: Time spent in greyscale mode, session history, streaks, achievements
@@ -24,7 +24,7 @@ Greyscale stores most data locally on your device. For the global leaderboard fe
 ## How We Use Your Information
 
 All data is used solely to provide app functionality:
-- Track your greyscale usage and progress
+- Track your grayscale usage and progress
 - Display achievements and milestones
 - Show your statistics on the global leaderboard (anonymously)
 
@@ -34,7 +34,7 @@ We do NOT share, sell, or transmit your personal data to any third parties. Lead
 
 ## Third-Party Services
 
-Greyscale uses:
+Grayscale uses:
 - **Firebase** (Google): Cloud database for leaderboard feature and anonymous authentication
 - **DiceBear** (dicebear.com): Generates avatar images based on your display name
 - **Expo**: Development framework and local notifications (no personal data sent)
@@ -44,7 +44,7 @@ We do not use analytics, advertising, or tracking services.
 
 ## Children's Privacy
 
-Greyscale does not knowingly collect information from children under 13. The app is safe for all ages.
+Grayscale does not knowingly collect information from children under 13. The app is safe for all ages.
 
 ## Your Rights
 
