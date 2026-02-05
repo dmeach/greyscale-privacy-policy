@@ -5,28 +5,28 @@
 
 ## Introduction
 
-This Privacy Policy describes how Grayscale ("we", "our", or "the app") handles your information. We are committed to protecting your privacy.
+This Privacy Policy describes how grayscale ("we", "our", or "the app") handles your information. We are committed to protecting your privacy.
 
 ## Information We Collect
 
 Grayscale stores most data locally on your device. For the global leaderboard feature, some anonymized data is synced to the cloud.
 
 ### Data Stored Locally
-- **Usage Statistics**: Time spent in greyscale mode, session history, streaks, achievements
+- **Usage Statistics**: Time spent in grayscale mode, session history, streaks, achievements
 - **Preferences**: App settings and configuration
 - **Notifications**: Daily reminder notifications are scheduled locally on your device (no data is sent externally)
 
 ### Data Synced to Cloud (for Leaderboard)
 - **Anonymous User ID**: A randomly generated identifier (not linked to your identity)
-- **Display Name**: The username you choose to show on the leaderboard
-- **Leaderboard Stats**: Greyscale time (weekly/monthly/yearly), streak, level, and unlocked achievements
+- **Display Name**: The username you choose, which is **publicly linked** to your usage statistics
+- **Leaderboard Stats**: Grayscale usage time, streak, level, and achievements (linked to your Display Name)
 
 ## How We Use Your Information
 
 All data is used solely to provide app functionality:
 - Track your grayscale usage and progress
 - Display achievements and milestones
-- Show your statistics on the global leaderboard (anonymously)
+- **Global Leaderboard**: We display your chosen Display Name alongside your tracked grayscale minutes and streaks. This allows you to compete with other users. By setting a Display Name, you consent to this public display of your usage data.
 
 ## Data Sharing
 
@@ -46,7 +46,7 @@ We do not use analytics, advertising, or tracking services.
 
 Grayscale does not knowingly collect information from children under 13. The app is safe for all ages.
 
-## Your Rights 
+## Your Rights
 
 You can delete all app data at any time by:
 - Uninstalling the app from your device
@@ -61,7 +61,7 @@ We may update this Privacy Policy. Changes will be posted within the app with an
 ## Contact Us
 
 If you have questions about this Privacy Policy or need support, please contact us at:
-- **Email**: greyscale.app.help@gmail.com
+- **Email**: grayscale.app.help@gmail.com
 
 ---
 
