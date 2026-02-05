@@ -46,7 +46,7 @@ We do not use analytics, advertising, or tracking services.
 
 Grayscale does not knowingly collect information from children under 13. The app is safe for all ages.
 
-## Your Rights
+## Your Rights 
 
 You can delete all app data at any time by:
 - Uninstalling the app from your device
